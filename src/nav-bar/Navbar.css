@@ -1,0 +1,29 @@
+.nav-bar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0 0 0;
+    font-weight: 600;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-right{
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-brand{
+    width: 80px;
+    height: 80px;
+}
+.active{
+    color: #025495;
+}
+.conne{
+    color: #025495;
+    border: 2px solid #025495;
+    padding: 5px;
+    border-radius: 5px;
+}
